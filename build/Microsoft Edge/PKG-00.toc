@@ -1,0 +1,94 @@
+('E:\\Codeing\\Python '
+ 'Language\\Projects\\Project_15_Clipboard_Copy\\build\\Microsoft '
+ 'Edge\\Microsoft Edge.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\build\\Microsoft '
+   'Edge\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\build\\Microsoft '
+   'Edge\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\build\\Microsoft '
+   'Edge\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\build\\Microsoft '
+   'Edge\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\build\\Microsoft '
+   'Edge\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\build\\Microsoft '
+   'Edge\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'E:\\Software\\Python\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'E:\\Software\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('SC_Main',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\SC_Main.py',
+   'PYSOURCE'),
+  ('python311.dll', 'E:\\Software\\Python\\python311.dll', 'BINARY'),
+  ('VCRUNTIME140.dll', 'E:\\Software\\Python\\VCRUNTIME140.dll', 'BINARY'),
+  ('_decimal.pyd', 'E:\\Software\\Python\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'E:\\Software\\Python\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('select.pyd', 'E:\\Software\\Python\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'E:\\Software\\Python\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'E:\\Software\\Python\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'E:\\Software\\Python\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata.pyd',
+   'E:\\Software\\Python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd', 'E:\\Software\\Python\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_elementtree.pyd',
+   'E:\\Software\\Python\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd', 'E:\\Software\\Python\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('psutil\\_psutil_windows.pyd',
+   'E:\\Software\\Python\\Lib\\site-packages\\psutil\\_psutil_windows.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd', 'E:\\Software\\Python\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'E:\\Software\\Python\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll', 'E:\\Software\\Python\\DLLs\\libssl-1_1.dll', 'BINARY'),
+  ('python3.dll', 'E:\\Software\\Python\\python3.dll', 'BINARY'),
+  ('libffi-8.dll', 'E:\\Software\\Python\\DLLs\\libffi-8.dll', 'BINARY'),
+  ('Application Host Service.exe',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\Application Host '
+   'Service.exe',
+   'DATA'),
+  ('base_library.zip',
+   'E:\\Codeing\\Python '
+   'Language\\Projects\\Project_15_Clipboard_Copy\\build\\Microsoft '
+   'Edge\\base_library.zip',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

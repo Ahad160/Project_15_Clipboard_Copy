@@ -1,0 +1,4 @@
+
+f'\n{text}'
+Project description
+Pyperclip is a cross-platform Python module for copy and paste clipboard functions. It works with Python 2 and 3.
